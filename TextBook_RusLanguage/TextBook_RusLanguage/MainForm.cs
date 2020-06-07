@@ -8,8 +8,6 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 using System.Diagnostics;
-using Telerik.WinControls.UI;
-using Telerik.WinControls.Themes;
 using Word = Microsoft.Office.Interop.Word;
 using Application = System.Windows.Forms.Application;
 

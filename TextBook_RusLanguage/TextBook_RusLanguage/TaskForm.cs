@@ -17,13 +17,13 @@ namespace TextBook_RusLanguage
     public partial class TaskForm : Telerik.WinControls.UI.RadForm
     {
         string path = Application.StartupPath;
-        static string fileSend = "";
+        string fileSend = Application.StartupPath + "\\RusLanguage\\Task\\template.docx";
         public TaskForm()
         {
             InitializeComponent();
         }
 
-        public static void SendMail()
+        public void SendMail()
         {
             try
             {
@@ -83,7 +83,15 @@ namespace TextBook_RusLanguage
         {
             openFileDialog1.ShowDialog();
             radTextBox1.Text = openFileDialog1.FileName;
-            fileSend = openFileDialog1.FileName;
+            if (openFileDialog1.FileName == "openFileDialog1")
+            {
+                fileSend = "";
+            }
+            else
+            {
+                fileSend = openFileDialog1.FileName;
+            }
+            
         }
 
         private void radTextBox1_TextChanged(object sender, EventArgs e)
