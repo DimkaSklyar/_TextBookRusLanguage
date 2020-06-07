@@ -18,12 +18,13 @@ namespace TextBook_RusLanguage
     {
         string path = Application.StartupPath;
         string fileSend = Application.StartupPath + "\\RusLanguage\\Task\\template.docx";
+        string mail = "mail@mail.ru";
         public TaskForm()
         {
             InitializeComponent();
         }
 
-        public void SendMail()
+        public void SendMail(string mail)
         {
             try
             {
@@ -35,7 +36,7 @@ namespace TextBook_RusLanguage
                     EnableSsl = true // обязательно!
                 };
                 message.From = new MailAddress("kurscoshinenit@mail.ru");
-                message.To.Add(new MailAddress("sabotender@mail.ru"));
+                message.To.Add(new MailAddress(mail));
                 message.Subject = "Заголовок";
                 message.SubjectEncoding = Encoding.UTF8;
                 message.Body = "Текст в форме сообщения";
@@ -74,22 +75,28 @@ namespace TextBook_RusLanguage
 
         private void radButton2_Click(object sender, EventArgs e)
         {
-
-            SendMail();
+            FileStream file = new FileStream(path + "\\config.cfg", FileMode.OpenOrCreate, FileAccess.Read);
+            StreamReader reader = new StreamReader(file);
+            mail = reader.ReadLine().Substring(7);
+            reader.Close();
+            file.Close();
+            SendMail(mail);
            
         }
 
         private void radButton3_Click(object sender, EventArgs e)
         {
             openFileDialog1.ShowDialog();
-            radTextBox1.Text = openFileDialog1.FileName;
             if (openFileDialog1.FileName == "openFileDialog1")
             {
                 fileSend = "";
+                radTextBox1.Text = "";
             }
             else
             {
+                radTextBox1.Text = openFileDialog1.FileName;
                 fileSend = openFileDialog1.FileName;
+           
             }
             
         }

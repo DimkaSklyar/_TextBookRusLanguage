@@ -50,7 +50,7 @@ namespace TextBook_RusLanguage
             {
                 FileStream file = new FileStream(path + "\\config.cfg", FileMode.Open, FileAccess.Read);
                 StreamReader reader = new StreamReader(file);
-                radTextBox1.Text = reader.ReadLine().Substring(6);
+                radTextBox1.Text = reader.ReadLine().Substring(7);
                 reader.Close();
                 file.Close();
             }
