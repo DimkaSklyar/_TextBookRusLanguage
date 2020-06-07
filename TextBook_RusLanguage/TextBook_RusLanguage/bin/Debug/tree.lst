@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" LineStyle="Solid" ItemHeight="36" ThemeName="TelerikMetro" BackColor="White" LineColor="209; 209; 209">
+  <Nodes Name="Предисловие" Text="Предисловие" Font="Microsoft Sans Serif; 8,25pt" />
+  <Nodes Name="Тематическое направление Родина" Text="Тематическое направление ''Родина''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений" Text="Темы сочинений" Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения" Text="Литературные произведения" Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы" Text="Тезисы и вопросы" Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты" Text="Цитаты" Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений" Text="Планы сочинений" Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений" Text="Примеры сочинений" Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Природа''" Text="Тематическое направление ''Природа''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений " Text="Темы сочинений " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения " Text="Литературные произведения " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы " Text="Тезисы и вопросы " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты " Text="Цитаты " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений " Text="Планы сочинений " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений " Text="Примеры сочинений " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''История''" Text="Тематическое направление ''История''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений  " Text="Темы сочинений  " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения  " Text="Литературные произведения  " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы  " Text="Тезисы и вопросы  " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты  " Text="Цитаты  " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений  " Text="Планы сочинений  " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений  " Text="Примеры сочинений  " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Война''" Text="Тематическое направление ''Война''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений   " Text="Темы сочинений   " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения   " Text="Литературные произведения   " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы   " Text="Тезисы и вопросы   " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты   " Text="Цитаты   " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений   " Text="Планы сочинений   " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений   " Text="Примеры сочинений   " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Дом''" Text="Тематическое направление ''Дом''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений    " Text="Темы сочинений    " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения    " Text="Литературные произведения    " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы    " Text="Тезисы и вопросы    " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты    " Text="Цитаты    " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений    " Text="Планы сочинений    " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений    " Text="Примеры сочинений    " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Семья''" Text="Тематическое направление ''Семья''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений     " Text="Темы сочинений     " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения     " Text="Литературные произведения     " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы     " Text="Тезисы и вопросы     " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты     " Text="Цитаты     " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений     " Text="Планы сочинений     " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений     " Text="Примеры сочинений     " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Любовь''" Text="Тематическое направление ''Любовь''" Font="Microsoft Sans Serif; 8,25pt">
+    <Nodes Name="Темы сочинений      " Text="Темы сочинений      " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Литературные произведения      " Text="Литературные произведения      " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Тезисы и вопросы      " Text="Тезисы и вопросы      " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Цитаты      " Text="Цитаты      " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Планы сочинений      " Text="Планы сочинений      " Font="Microsoft Sans Serif; 8,25pt" />
+    <Nodes Name="Примеры сочинений      " Text="Примеры сочинений      " Font="Microsoft Sans Serif; 8,25pt" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Дружба''" Text="Тематическое направление ''Дружба''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений       " Text="Темы сочинений       " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения       " Text="Литературные произведения       " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы       " Text="Тезисы и вопросы       " Font="(отсутствует)" />
+    <Nodes Name="Цитаты       " Text="Цитаты       " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений       " Text="Планы сочинений       " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений       " Text="Примеры сочинений       " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Творчество''" Text="Тематическое направление ''Творчество''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений        " Text="Темы сочинений        " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения         " Text="Литературные произведения         " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы        " Text="Тезисы и вопросы        " Font="(отсутствует)" />
+    <Nodes Name="Цитаты        " Text="Цитаты        " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений         " Text="Планы сочинений         " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений        " Text="Примеры сочинений        " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Искусство''" Text="Тематическое направление ''Искусство''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений         " Text="Темы сочинений         " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения        " Text="Литературные произведения        " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы         " Text="Тезисы и вопросы         " Font="(отсутствует)" />
+    <Nodes Name="Цитаты         " Text="Цитаты         " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений          " Text="Планы сочинений          " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений         " Text="Примеры сочинений         " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Литература''" Text="Тематическое направление ''Литература''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений          " Text="Темы сочинений          " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения          " Text="Литературные произведения          " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы          " Text="Тезисы и вопросы          " Font="(отсутствует)" />
+    <Nodes Name="Цитаты          " Text="Цитаты          " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений           " Text="Планы сочинений           " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений          " Text="Примеры сочинений          " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Кино''" Text="Тематическое направление ''Кино''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений           " Text="Темы сочинений           " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения           " Text="Литературные произведения           " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы           " Text="Тезисы и вопросы           " Font="(отсутствует)" />
+    <Nodes Name="Цитаты           " Text="Цитаты           " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений            " Text="Планы сочинений            " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений           " Text="Примеры сочинений           " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Разум и чувство''" Text="Тематическое направление ''Разум и чувство''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений            " Text="Темы сочинений            " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения            " Text="Литературные произведения            " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы            " Text="Тезисы и вопросы            " Font="(отсутствует)" />
+    <Nodes Name="Цитаты            " Text="Цитаты            " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений             " Text="Планы сочинений             " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений            " Text="Примеры сочинений            " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Победа и поражение''" Text="Тематическое направление ''Победа и поражение''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений             " Text="Темы сочинений             " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения             " Text="Литературные произведения             " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы             " Text="Тезисы и вопросы             " Font="(отсутствует)" />
+    <Nodes Name="Цитаты             " Text="Цитаты             " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений              " Text="Планы сочинений              " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений             " Text="Примеры сочинений             " Font="(отсутствует)" />
+  </Nodes>
+  <Nodes Name="Тематическое направление ''Честь и бесчестие''" Expanded="true" Text="Тематическое направление ''Честь и бесчестие''" Font="(отсутствует)">
+    <Nodes Name="Темы сочинений              " Text="Темы сочинений              " Font="(отсутствует)" />
+    <Nodes Name="Литературные произведения              " Text="Литературные произведения              " Font="(отсутствует)" />
+    <Nodes Name="Тезисы и вопросы              " Text="Тезисы и вопросы              " Font="(отсутствует)" />
+    <Nodes Name="Цитаты              " Text="Цитаты              " Font="(отсутствует)" />
+    <Nodes Name="Планы сочинений               " Text="Планы сочинений               " Font="(отсутствует)" />
+    <Nodes Name="Примеры сочинений              " Text="Примеры сочинений              " Font="(отсутствует)" />
+  </Nodes>
+</TreeView>
